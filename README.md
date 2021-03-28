@@ -13,6 +13,8 @@
 <li>Select Light/Dark Mode</li>
 <li>Fixed Navbar</li>
 <li>Smooth Scroll</li>
-<li>Named variables styles</li>
+<li>CSS Custom Properties (variables)</li>
 <li>Google Fonts</li>
+<li>Font Awesome Icons</li>
+<li>Local Storage Properties</li>
 </ul>
