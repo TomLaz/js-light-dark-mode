@@ -9,7 +9,7 @@ const textBox = document.getElementById("text-box");
 
 // Dark or Light Images
 function imageMode(color) {
-    image1.src = `img/undraw_project_completed_${color}.svg`;
+    image1.src = `img/undraw_subscriptions_${color}.svg`;
     image2.src = `img/undraw_typing_${color}.svg`;
     image3.src = `img/undraw_social_networking_${color}.svg`;
     messagingImage.src =  `img/undraw_online_messaging_${color}.svg`;
