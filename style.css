@@ -93,6 +93,9 @@ a:focus {
 .about-container {
   display: flex;
   margin-top: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
 }
 
 .image-container {
